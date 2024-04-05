@@ -1,0 +1,11 @@
+setup.py
+mcqsgenrator.egg-info/PKG-INFO
+mcqsgenrator.egg-info/SOURCES.txt
+mcqsgenrator.egg-info/dependency_links.txt
+mcqsgenrator.egg-info/requires.txt
+mcqsgenrator.egg-info/top_level.txt
+src/__init__.py
+src/mcq_generator/__init__.py
+src/mcq_generator/logger.py
+src/mcq_generator/mcq_generator.py
+src/mcq_generator/utils.py

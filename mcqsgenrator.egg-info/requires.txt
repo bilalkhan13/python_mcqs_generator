@@ -1,7 +1,5 @@
 openai
 langchain
-streamlit==0.85.0
+streamlit
 python-dotenv
-pyPdF2
-
--e .
+PyPDF2
